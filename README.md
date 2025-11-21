@@ -1,2 +1,2 @@
-# typescript_starter_project
+# typescript_project
 __
